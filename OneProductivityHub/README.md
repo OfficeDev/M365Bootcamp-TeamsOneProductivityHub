@@ -30,7 +30,7 @@ Review the [Setup](/OneProductivityHub/Tutorials/00-Setup.md) guidlines for the 
 
 Solution|Authors
 --------|-------
-[One Productivity Hub](/Solution)|Ayca Bas, Cloud Advocate @[Microsoft](https://developer.microsoft.com/en-us/advocates/ayca-bas), [Twitter](https://twitter.com/aycabs), [Blog](https://quickbites.dev/) 
+[One Productivity Hub](/Solution/OneProductivityHub)|Ayca Bas, Cloud Advocate @[Microsoft](https://developer.microsoft.com/en-us/advocates/ayca-bas), [Twitter](https://twitter.com/aycabs), [Blog](https://quickbites.dev/) 
 
 ## Disclaimer
 
