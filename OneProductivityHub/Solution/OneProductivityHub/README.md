@@ -5,7 +5,7 @@ Tabs are Teams-aware webpages embedded in Microsoft Teams. Personal tabs are sco
 ## Prerequisites
 -  [NodeJS](https://nodejs.org/en/)
 
--  [M365 developer account](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/build-and-test/prepare-your-o365-tenant) or access to a Teams account with the appropriate permissions to install an app.
+-  [M365 developer account](https://cda.ms/1Jw) or access to a Teams account with the appropriate permissions to install an app.
 
 ## Build and Run
 
@@ -27,4 +27,4 @@ Update manifest.env in the .publish folder as follows:
 
 **Upload app from the Teams client**
 - Upload the `Development.zip` from the *.publish* folder to Teams.
-  - [Upload a custom app](https://aka.ms/teams-toolkit-uploadapp) 
+  - [Upload a custom app](https://cda.ms/1Jx) 
