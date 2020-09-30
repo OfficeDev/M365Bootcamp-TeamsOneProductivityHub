@@ -1,0 +1,42 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "quitTeamsWindows",
+      "detail": "Ensure Microsoft Teams isn't running",
+      "type": "shell",
+      "command": "node",
+      "args": [
+        "${workspaceRoot}/.vscode/launch.js",
+        "quit"
+      ],
+      "presentation": {
+          "echo": true,
+          "reveal": "always",
+          "focus": false,
+          "panel": "shared",
+          "showReuseMessage": false,
+          "clear": true,
+      }
+    },
+    {
+      "label": "deployTeamsWindows",
+      "detail": "Ensure Microsoft Teams isn't running",
+      "type": "shell",
+      "command": "node",
+      "args": [
+        "${workspaceRoot}/.vscode/launch.js",
+        "deploy",
+        "${workspaceRoot}"
+      ],
+      "presentation": {
+          "echo": true,
+          "reveal": "always",
+          "focus": false,
+          "panel": "shared",
+          "showReuseMessage": false,
+          "clear": true,
+      }
+    }
+  ]
+}
