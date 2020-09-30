@@ -1,4 +1,4 @@
-## Part 1- Create a new Teams custom tab
+## Part 1 - Create a new Teams custom tab
 
 1. Select Microsoft Teams icon on the left side bar in Visual Studio Code and **Sign in**.
 

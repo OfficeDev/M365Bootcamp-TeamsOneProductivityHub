@@ -1,7 +1,7 @@
 # Environment Setup
 
 
-## 1- Prepare your Office 365 tenant
+## 1 - Prepare your Office 365 tenant
 
 If you are an Office 365 subscriber, you can develop apps for Microsoft Teams with one of the following [plans](https://products.office.com/business/compare-more-office-365-for-business-plans):
 
@@ -15,11 +15,11 @@ Microsoft Teams will also be available to customers who subscribed to E4 prior t
 
 #### Just need a development environment?
 
-If you don't currently have an Office 365 account, you can sign up for a [Microsoft 365 Developer Program](https://developer.microsoft.com/microsoft-365/dev-program) subscription. It's *free* for 90 days and will continually renew as long as you're using it for development activity. If you have a Visual Studio *Enterprise* or *Professional* subscription, both programs include a free Microsoft 365 [developer subscription](https://aka.ms/MyVisualStudioBenefits), active for the life of your Visual Studio subscription. *See* [Set up a Microsoft 365 developer subscription](https://docs.microsoft.com/office/developer-program/office-365-developer-program-get-started).
+If you don't currently have an Office 365 account, you can sign up for a [Microsoft 365 Developer Program](https://cda.ms/1Jp) subscription. It's *free* for 90 days and will continually renew as long as you're using it for development activity. If you have a Visual Studio *Enterprise* or *Professional* subscription, both programs include a free Microsoft 365 [developer subscription](https://aka.ms/MyVisualStudioBenefits), active for the life of your Visual Studio subscription. *See* [Set up a Microsoft 365 developer subscription](https://cda.ms/1Jq).
 
 #### Enable Microsoft Teams for your organization 
 
-If Microsoft Teams has not been enabled for your organization, you'll need to do that first. Take a look at our detailed guidance for [enabling Teams for your organization](/microsoftteams/enable-features-office-365).
+If Microsoft Teams has not been enabled for your organization, you'll need to do that first. Take a look at our detailed guidance for [enabling Teams for your organization](https://cda.ms/1Jr).
 
 #### Enable custom Teams apps and turn on custom app uploading
 
@@ -30,7 +30,7 @@ Turn on custom app sideloading for your developer tenant as follows:
 2. Select **Show All** --> **Teams**. 
 
 > [!Note] 
-> It can take up to 24 hours for the "Teams" option to appear. During interim, you can [Upload your custom app to a Teams environment](/microsoftteams/upload-custom-apps#validate) for testing and validation.
+> It can take up to 24 hours for the "Teams" option to appear. During interim, you can [Upload your custom app to a Teams environment](https://cda.ms/1Js) for testing and validation.
 
 3. Navigate to **Teams apps** --> **Setup Policies** --> **Global(Org-wide default)**  
 
@@ -41,20 +41,20 @@ That's it! Your test tenant will now allow custom app sideloading.
 > [!Note] 
 > It can take up to 24 hours before sideloading is enabled. During interim, you can use **upload for \<your tenant>** to test your app.
 
-For complete information on how these settings interact, *See*, [Manage custom app policies and settings in Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-custom-app-policies-and-settings) and [Manage app setup policies in Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies).
+For complete information on how these settings interact, *See*, [Manage custom app policies and settings in Microsoft Teams](https://cda.ms/1Jt) and [Manage app setup policies in Microsoft Teams](https://cda.ms/1Jv).
 
 
-## 2- Install Visual Studio Code
+## 2 - Install Visual Studio Code
 The latest Visual Studio Code version is available here: https://code.visualstudio.com/
 
-## 3- Install Node.js 
+## 3 - Install Node.js 
 Visit https://nodejs.org/ to install Node.js Long Term Support version.
 
-## 4- Download Microsoft Teams Toolkit 
-Microsoft Teams Toolkit extension for Visual Studio Code is available in Visual Studio Marketplace:
-https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension
+## 4 - Download Microsoft Teams Toolkit 
+Microsoft Teams Toolkit extension for Visual Studio Code is available in [Visual Studio Marketplace](
+https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension).
 
-## 5- Setup Ngrok
+## 5 - Setup Ngrok
 Download `ngrok`: https://ngrok.com/download
 
 #### Unzip to install
