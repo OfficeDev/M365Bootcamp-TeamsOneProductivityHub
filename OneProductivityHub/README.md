@@ -9,6 +9,7 @@ Welcome to M365 Bootcamp One Productivity Hub session. In this lab, you will lea
 
 Follow the tutorial parts to build One Productivity Hub solution and complete the lab:
 
+- [Part 0 - Environment Setup](/OneProductivityHub/Tutorials/00-Setup.md)
 - [Part 1 - Create a new Teams custom tab](/OneProductivityHub/Tutorials/01-Create_Teams_tab.md)
 - [Part 2 - Register your application in Azure Active Directory](/OneProductivityHub/Tutorials/02-Register_your_app_in_Azure_AD.md)
 - [Part 3 - Add Microsoft Graph Toolkit and build the auth pop-up page](/OneProductivityHub/Tutorials/03-Initialize_MGT_and_auth_page.md)
@@ -18,6 +19,7 @@ Follow the tutorial parts to build One Productivity Hub solution and complete th
 
 ## Pre-requisites
 
+Review the [Setup](/OneProductivityHub/Tutorials/00-Setup.md) documentation to get more guidance around the below pre-requisites:  
 - [Prepare your Office 365 tenant](https://cda.ms/1J5) 
 - Install [Visual Studio Code](https://code.visualstudio.com/)
 - Install [Node.js Long Term Support](https://nodejs.org/)
