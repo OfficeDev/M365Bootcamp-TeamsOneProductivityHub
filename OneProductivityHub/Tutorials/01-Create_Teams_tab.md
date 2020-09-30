@@ -36,3 +36,6 @@ ngrok http 3000
 - Microsoft Docs - [Build apps with the Microsoft Teams Toolkit and Visual Studio Code](https://cda.ms/1Jj)
 - Visual Studio Marketplace - [Microsoft Teams Toolkit Extension for Visual Studio Code](https://cda.ms/1Jj)
 - [Ngrok](https://ngrok.com/download)
+
+## Next Step
+[Part 2 - Register your application in Azure Active Directory](/OneProductivityHub/Tutorials/02-Register_your_app_in_Azure_AD.md)

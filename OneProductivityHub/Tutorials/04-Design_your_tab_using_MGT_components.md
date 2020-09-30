@@ -134,3 +134,6 @@ Add the `Get` component that enables getting e-mails from user's mailbox inside 
 
 ## References
 - Microsoft Docs - [Build a Microsoft Teams tab with the Microsoft Graph Toolkit](https://cda.ms/1Jh)
+
+## Next Step
+[Part 5 - Test your tab in Microsoft Teams App Studio](/OneProductivityHub/Tutorials/05-Test_your_tab.md)
