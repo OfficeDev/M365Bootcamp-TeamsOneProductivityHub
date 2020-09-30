@@ -28,7 +28,7 @@ Follow the tutorial parts to build One Productivity Hub solution and complete th
 
 Solution|Authors
 --------|-------
-One Productivity Hub|Ayca Bas, Cloud Advocate @[Microsoft](https://developer.microsoft.com/en-us/advocates/ayca-bas), [Twitter](https://twitter.com/aycabs), [Blog](https://quickbites.dev/) 
+[One Productivity Hub]()|Ayca Bas, Cloud Advocate @[Microsoft](https://developer.microsoft.com/en-us/advocates/ayca-bas), [Twitter](https://twitter.com/aycabs), [Blog](https://quickbites.dev/) 
 
 ## Disclaimer
 
