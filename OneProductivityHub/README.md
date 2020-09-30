@@ -3,7 +3,7 @@
 
 ## Summary
 
-Welcome to M365 Bootcamp One Productivity Hub session. In this lab, you will learn all about consuming Microsoft Graph Toolkit in a Microsoft Teams tab to enable easy authentication and get Microsoft 365 data such as calendar, tasks and e-mails.
+Welcome to *M365 Bootcamp One Productivity Hub* session. In this lab, you will learn all about consuming Microsoft Graph Toolkit in a Microsoft Teams tab to enable easy authentication and get Microsoft 365 data such as calendar, tasks and e-mails.
 
 ![One Productivity Hub](/OneProductivityHub/Images/OneProductivityHub.png)
 
