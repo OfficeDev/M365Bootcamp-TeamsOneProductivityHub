@@ -35,3 +35,6 @@ Finally, our *One Productivity Hub* tab is running successfully on Microsoft Tea
 
 ## References
 - Microsoft Docs - [Build a Microsoft Teams tab with the Microsoft Graph Toolkit](https://cda.ms/1Jh)
+
+## Completed Solution
+Completed solution can be found under the `Solution` folder.

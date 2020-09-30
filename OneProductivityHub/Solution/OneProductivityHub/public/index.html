@@ -8,23 +8,27 @@
     <script src="https://unpkg.com/@microsoft/teams-js/dist/MicrosoftTeams.min.js" crossorigin="anonymous"></script>
     <script src=" https://unpkg.com/@microsoft/mgt@1.3.4/dist/bundle/mgt-loader.js"></script>
     <mgt-teams-provider
-    client-id="4558d559-70eb-4230-903d-70f86a73427b"
-    auth-popup-url="https://3babaf01bc24.ngrok.io/auth.html"
+    client-id="<YOUR_CLIENT_ID>"
+    auth-popup-url="https://<YOUR_NGROK_URL>/auth.html"
     scopes="User.Read, User.Read.All, Calendars.Read, Contacts.Read, People.Read, Group.Read.All, Group.ReadWrite.All, Tasks.Read, Tasks.ReadWrite, Mail.ReadBasic, Mail.Read, Mail.ReadWrite"
   ></mgt-teams-provider>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
+
     <mgt-login></mgt-login>
+
     <div class="row" id="content">
-    
+
       <div class="column" id="one">
         <mgt-agenda></mgt-agenda>
       </div>
+
       <div class="column" id="two">
         <mgt-tasks></mgt-tasks>
       </div>
+
       <div class="column" id="three">
         <mgt-get resource="/me/messages" version="beta" scopes="mail.read" max-pages="1">
           <template>
@@ -39,5 +43,6 @@
            <template data-type="error">{{ this }} </template>
         </mgt-get>  
       </div>
+      
   </body>
 </html>
