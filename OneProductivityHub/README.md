@@ -21,7 +21,7 @@ Follow the tutorial parts to build One Productivity Hub solution and complete th
 - [Prepare your Office 365 tenant](https://cda.ms/1J5) 
 - Install [Visual Studio Code](https://code.visualstudio.com/)
 - Install [Node.js Long Term Support](https://nodejs.org/)
-- Download [Microsoft Teams Toolkit for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)
+- Download [Microsoft Teams Toolkit extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)
 - Setup [Ngrok](https://ngrok.com/download)
 
 ## Solution
