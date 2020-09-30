@@ -10,9 +10,9 @@ Welcome to M365 Bootcamp One Productivity Hub session. In this lab, you will lea
 Follow the tutorial parts to build One Productivity Hub solution and complete the lab:
 
 - Part 1 - Create a new Teams custom tab
-- Part 2 - Add Microsoft Graph Toolkit and build the auth pop-up page
-- Part 3 - Build One Productivity Hub using Microsoft Graph Toolkit components
-- Part 4 - Register your application in Azure Active Directory
+- Part 2 - Register your application in Azure Active Directory
+- Part 3 - Add Microsoft Graph Toolkit and build the auth pop-up page
+- Part 4 - Design your One Productivity Hub using Microsoft Graph Toolkit components
 - Part 5 - Test your tab in Microsoft Teams App Studio
 
 
