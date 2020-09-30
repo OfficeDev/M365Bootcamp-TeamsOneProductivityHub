@@ -19,7 +19,7 @@ Follow the tutorial parts to build One Productivity Hub solution and complete th
 
 ## Pre-requisites
 
-Review the [Setup](/OneProductivityHub/Tutorials/00-Setup.md) documentation to get more guidance around the below pre-requisites:  
+Review the [Setup](/OneProductivityHub/Tutorials/00-Setup.md) guidlines for the following pre-requisites:  
 - [Prepare your Office 365 tenant](https://cda.ms/1J5) 
 - Install [Visual Studio Code](https://code.visualstudio.com/)
 - Install [Node.js Long Term Support](https://nodejs.org/)
