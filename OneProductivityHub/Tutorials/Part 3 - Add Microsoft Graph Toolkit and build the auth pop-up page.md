@@ -17,9 +17,13 @@ In `public/index.html`, add the Teams provider as shown.
 <mgt-teams-provider
   client-id="<YOUR_CLIENT_ID>"
   auth-popup-url="https://<YOUR_NGROK_URL>/auth.html"
+  scopes="User.Read, User.Read.All, Calendars.Read, Contacts.Read, People.Read, Group.Read.All, Group.ReadWrite.All, Tasks.Read, Tasks.ReadWrite, Mail.ReadBasic, Mail.Read, Mail.ReadWrite"
 ></mgt-teams-provider>
 ```
+> **Note:** Make sure to add the following scopes in your provider `scopes="User.Read, User.Read.All, Calendars.Read, Contacts.Read, People.Read, Group.Read.All, Group.ReadWrite.All, Tasks.Read, Tasks.ReadWrite, Mail.ReadBasic, Mail.Read, Mail.ReadWrite"`.
+
 Replace `<YOUR_CLIENT_ID>` with the client ID for your Azure AD application and `<YOUR_NGROK_URL>` with the ngrok URL you created.
+
 
 ### Create the auth popup page
 
@@ -29,7 +33,7 @@ You can do this in your HTML by adding a new `auth.html` file in the `public` fo
 
 ```HTML
 <script src="https://unpkg.com/@microsoft/teams-js/dist/MicrosoftTeams.min.js" crossorigin="anonymous"></script>
-<script src="https://unpkg.com/@microsoft/mgt/dist/bundle/mgt-loader.js"></script>
+<script src="https://unpkg.com/@microsoft/mgt@1.3.4/dist/bundle/mgt-loader.js"></script>
 
 <script>
   mgt.TeamsProvider.handleAuth();

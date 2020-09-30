@@ -20,9 +20,7 @@
    
       ```Bash
       npm install
-      ```
 
-      ```Bash
       npm start
       ```
 ## Set up ngrok and create a tunnel
@@ -32,8 +30,9 @@ In order to test your application later, you will need to host your application 
 ngrok http 3000
 ```
 
-In your project directory, locate the `.publish\Development.env` file and replace the value for `baseUrl0` with your ngrok URL.
+> **Important:** In your project directory, locate the `.publish\Development.env` file and replace the value for `baseUrl0` with your ngrok URL. 
 
 ## References
 - Microsoft Docs - [Build apps with the Microsoft Teams Toolkit and Visual Studio Code](https://cda.ms/1Jj)
 - Visual Studio Marketplace - [Microsoft Teams Toolkit Extension for Visual Studio Code](https://cda.ms/1Jj)
+- [Ngrok](https://ngrok.com/download)

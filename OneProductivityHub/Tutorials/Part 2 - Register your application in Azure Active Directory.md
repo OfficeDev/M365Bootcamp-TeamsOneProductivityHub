@@ -7,7 +7,7 @@
 1. Fill the details to register an app:
    * give a name to your application
    * select **Accounts in any organizational directory** as an access level
-   * place **auth-popup-url** as the redirect url `https://ngrok.io/auth.html`
+   * place **auth-popup-url** as the redirect url `https://<YOUR_NGROK_URL>/auth.html`
    * select **Register**
    
     ![AAD Registration](/OneProductivityHub/Images/AADRegistration-02.PNG) 
