@@ -1,0 +1,14 @@
+{
+    "version": "1.0.0",
+    "configurations": [
+        {
+            "preLaunchTask": "deployTeamsWindows",
+            "name": "Debug (Development)",
+            "type": "chrome",
+            "request": "launch",
+            "url": "http://localhost:3000/tab",
+            "webRoot": "${workspaceFolder}",
+            "postDebugTask": "quitTeamsWindows"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+body {
+  margin: 5em;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#content, html, body {
+  height: 98%;
+  
+}
+#one {
+  float: left;
+  width: 33%;
+  background:transparent;
+  height:500px;
+  overflow: hidden;
+}
+#one:hover {
+  overflow-y: auto;
+}
+#two {
+  float: left;
+  width: 33%;
+  background: transparent;
+  height: 500px;
+  overflow: hidden;
+}
+#two:hover {
+  overflow-y: auto;
+}
+#three {
+  float: left;
+  width: 33%;
+  background: transparent;
+  height: 500px;
+  overflow: hidden;
+}
+#three:hover {
+  overflow-y: auto;
+}
+/*Email*/
+.email {
+  box-shadow: 0 3px 7px rgba(0, 0, 0, 0.3);
+  padding: 10px;
+  margin: 8px 4px;
+  font-family: Segoe UI, Frutiger, Frutiger Linotype, Dejavu Sans, Helvetica Neue, Arial, sans-serif;
+}
+.email:hover {
+  box-shadow: 0 3px 14px rgba(0, 0, 0, 0.3);
+  padding: 10px;
+  margin: 8px 4px;
+}
+.email h3 {
+  font-size: 12px;
+  margin-top: 4px;
+}
+.email h4 {
+  font-size: 10px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.email mgt-person {
+  --font-size: 10px;
+  --avatar-size-s: 12px;
+}
+.email .preview {
+  font-size: 13px;
+  text-overflow: ellipsis;
+  word-wrap: break-word;
+  overflow: hidden;
+  max-height: 2.8em;
+  line-height: 1.4em;
+}
