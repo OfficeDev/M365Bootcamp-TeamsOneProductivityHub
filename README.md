@@ -6,6 +6,20 @@ Welcome to *M365 Bootcamp One Productivity Hub* session. In this lab, you will l
 
 ![One Productivity Hub](/Labs/Images/OneProductivityHub.png)
 
+You will build:
+- A Microsoft Teams tab for monitoring your tasks, e-mails and calendar events
+
+## Prerequisites
+
+Before you start this lab, you will need an environment setup. Review the [Environment Setup](/Labs/00-Setup.md) guidlines for the following prerequisites or click the related link of each prerequisite to be directed to the official documentation:
+  
+- [Prepare your Office 365 tenant](https://cda.ms/1J5) 
+- Install [Visual Studio Code](https://code.visualstudio.com/)
+- Install [Node.js Long Term Support](https://nodejs.org/)
+- Download [Microsoft Teams Toolkit extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)
+- Setup [Ngrok](https://ngrok.com/download)
+
+## The Workshop
 Follow the tutorial parts to build One Productivity Hub solution and complete the lab:
 
 - [Part 0 - Environment Setup](/Labs/00-Setup.md)
@@ -14,16 +28,6 @@ Follow the tutorial parts to build One Productivity Hub solution and complete th
 - [Part 3 - Add Microsoft Graph Toolkit and build the auth pop-up page](/Labs/03-Initialize_MGT_and_auth_page.md)
 - [Part 4 - Design your One Productivity Hub using Microsoft Graph Toolkit components](/Labs/04-Design_your_tab_using_MGT_components.md)
 - [Part 5 - Test your tab in Microsoft Teams App Studio](/Labs/05-Test_your_tab.md)
-
-
-## Pre-requisites
-
-To complete this lab, you will need an environment setup. Review the [Environment Setup](/Labs/00-Setup.md) guidlines for the following pre-requisites:  
-- [Prepare your Office 365 tenant](https://cda.ms/1J5) 
-- Install [Visual Studio Code](https://code.visualstudio.com/)
-- Install [Node.js Long Term Support](https://nodejs.org/)
-- Download [Microsoft Teams Toolkit extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)
-- Setup [Ngrok](https://ngrok.com/download)
 
 ## Solution
 
@@ -35,9 +39,7 @@ One Productivity Hub|Ayca Bas, Cloud Advocate @[Microsoft](https://developer.mic
 
 **THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
 
-
-
-# Contributing
+## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
