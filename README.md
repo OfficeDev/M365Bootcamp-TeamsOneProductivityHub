@@ -1,4 +1,4 @@
-# Build “One Productivity Hub” using Microsoft Teams and Microsoft Graph Toolkit
+# Build a “One Productivity Hub” solution using Microsoft Teams and Microsoft Graph Toolkit
 
 ## Summary
 
