@@ -22,4 +22,4 @@
 - Microsoft Docs - [Register an application with the Microsoft identity platform](https://cda.ms/1Jk)
 
 ## Next Step
-[Part 3 - Add Microsoft Graph Toolkit and build the auth pop-up page](/Labs/03-Initialize_MGT_and_auth_page.md)
+> **[Part 3 - Add Microsoft Graph Toolkit and build the auth pop-up page](/Labs/03-Initialize_MGT_and_auth_page.md)**

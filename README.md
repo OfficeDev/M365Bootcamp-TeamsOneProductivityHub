@@ -2,12 +2,15 @@
 
 ## Summary
 
-Welcome to *M365 Developer Bootcamp, Workshop 2 - One Productivity Hub* session. In this lab, you will learn all about consuming Microsoft Graph Toolkit in a Microsoft Teams tab to enable easy authentication and get Microsoft 365 data such as calendar, tasks and e-mails.
+Welcome to *M365 Developer Bootcamp, Workshop 2 - One Productivity Hub* session. In this lab, you will learn all about consuming Microsoft Graph Toolkit in a Microsoft Teams tab to enable easy authentication and get Microsoft 365 data such as calendar, tasks and e-mails. 
+
+Here is the flow for the steps you will follow to complete this lab:
 
 ![One Productivity Hub](/Labs/Images/OneProductivityHub.png)
 
-You will build:
-- A Microsoft Teams tab for monitoring your tasks, e-mails and calendar events
+Final solution will be a Microsoft Teams tab for monitoring your tasks, e-mails and calendar events:
+
+![One Productivity Hub Final](/Labs/Images/TestingTabOnTeams-06.png)
 
 ## Prerequisites
 
@@ -31,13 +34,11 @@ Follow the tutorial parts to build One Productivity Hub solution and complete th
 
 ## Solution
 
+Completed solution can be found under the `Solution` folder. 
+
 Solution|Authors
 --------|-------
 One Productivity Hub|Ayca Bas, Cloud Advocate @[Microsoft](https://developer.microsoft.com/en-us/advocates/ayca-bas), [Twitter](https://twitter.com/aycabs), [Blog](https://quickbites.dev/) 
-
-## Disclaimer
-
-**THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
 
 ## Contributing
 
@@ -52,3 +53,11 @@ provided by the bot. You will only need to do this once across all repos using o
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+
+## References
+- [Build apps with the Microsoft Teams Toolkit and Visual Studio Code](https://cda.ms/1Jj)
+- [Register an application with the Microsoft identity platform](https://cda.ms/1Jk)
+- [Build a Microsoft Teams tab with the Microsoft Graph Toolkit](https://cda.ms/1Jh)
+
+## Next Step
+> **[Part 0 - Environment Setup](/Labs/00-Setup.md)**
