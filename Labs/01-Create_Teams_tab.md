@@ -36,7 +36,7 @@ ngrok http 3000
 
 ## References
 - Microsoft Docs - [Build apps with the Microsoft Teams Toolkit and Visual Studio Code](https://cda.ms/1Jj)
-- Visual Studio Marketplace - [Microsoft Teams Toolkit Extension for Visual Studio Code](https://cda.ms/1Jj)
+- Visual Studio Marketplace - [Microsoft Teams Toolkit Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)
 - [Ngrok](https://ngrok.com/download)
 
 ## Next Step
