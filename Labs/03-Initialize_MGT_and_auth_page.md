@@ -32,16 +32,30 @@ In order to allow users to sign in, you need to provide a URL that the Teams app
 You can do this in your HTML by adding a new `auth.html` file in the `public` folder (which should be at the same level as `index.html`) and adding the following code:
 
 ```HTML
-<script src="https://unpkg.com/@microsoft/teams-js/dist/MicrosoftTeams.min.js" crossorigin="anonymous"></script>
-<script src="https://unpkg.com/@microsoft/mgt@1.3.4/dist/bundle/mgt-loader.js"></script>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+    <script src="https://unpkg.com/@microsoft/teams-js/dist/MicrosoftTeams.min.js" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/@microsoft/mgt@1.3.4/dist/bundle/mgt-loader.js"></script>
 
-<script>
-  mgt.TeamsProvider.handleAuth();
-</script>
+    <script>
+      mgt.TeamsProvider.handleAuth();
+    </script>
+        
+</body>
+</html>
 ```
 
 ## References
 - Microsoft Docs - [Build a Microsoft Teams tab with the Microsoft Graph Toolkit](https://cda.ms/1Jh)
 
 ## Next Step
-[Part 4 - Design your One Productivity Hub using Microsoft Graph Toolkit components](/OneProductivityHub/Tutorials/04-Design_your_tab_using_MGT_components.md)
+[Part 4 - Design your One Productivity Hub using Microsoft Graph Toolkit components](/Labs/04-Design_your_tab_using_MGT_components.md)
