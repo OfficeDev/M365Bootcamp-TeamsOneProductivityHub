@@ -2,19 +2,19 @@
 
 1. Select Microsoft Teams icon on the left side bar in Visual Studio Code and **Sign in**.
 
-   ![Microsoft Teams Toolkit Extension for Visual Studio Code](/Labs/Images/CreateTeamsTab-1.png)
+   ![Microsoft Teams Toolkit Extension for Visual Studio Code](Images/CreateTeamsTab-1.png)
    
 1. Select **Create a new Teams app**, 
    * Give a name for the app 
    * Choose **Tab** for the capability
    * Select **Next**
    
-   ![Microsoft Teams Toolkit Extension for Visual Studio Code](/Labs/Images/CreateTeamsTab-2.png)
+   ![Microsoft Teams Toolkit Extension for Visual Studio Code](Images/CreateTeamsTab-2.png)
    
    * Select **Personal tab**
    * Select **Finish**
    
-   ![Microsoft Teams Toolkit Extension for Visual Studio Code](/Labs/Images/CreateTeamsTab-3.PNG)
+   ![Microsoft Teams Toolkit Extension for Visual Studio Code](Images/CreateTeamsTab-3.PNG)
    
    * Open Terminal and run:
    

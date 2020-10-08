@@ -2,7 +2,7 @@
 
 1. Go to [Azure Portal](https://portal.azure.com), then **Azure Active Directory > App Registration** and select **New Registration**.
 
-   ![AAD Registration](/Labs/Images/AADRegistration-01.PNG) 
+   ![AAD Registration](Images/AADRegistration-01.PNG) 
 
 1. Fill the details to register an app:
    * give a name to your application
@@ -10,11 +10,11 @@
    * place **auth-popup-url** as the redirect url `https://<YOUR_NGROK_URL>/auth.html`
    * select **Register**
    
-    ![AAD Registration](/Labs/Images/AADRegistration-02.PNG) 
+    ![AAD Registration](Images/AADRegistration-02.PNG) 
 
 1. Go to **Authentication** tab and enable **Implicit grant** by selecting `Access tokens` and `ID tokens`, then click `Save` button on the top of the page.
 
-   ![AAD Registration](/Labs/Images/AADRegistration-03.PNG) 
+   ![AAD Registration](Images/AADRegistration-03.PNG) 
    
 1. Go to **Overview** tab and copy **Application (client) ID**.
 
