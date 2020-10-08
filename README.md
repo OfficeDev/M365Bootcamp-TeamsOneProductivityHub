@@ -33,7 +33,7 @@ Follow the tutorial parts to build One Productivity Hub solution and complete th
 - [Part 5 - Test your tab in Microsoft Teams App Studio](/Labs/05-Test_your_tab.md)
 
 ---
-🏁 CHALLENGE: There will be challenges in the lab exercises to learn more on your own.
+**🏁 CHALLENGE:** Be aware! There will be soem challenges in the lab exercises to learn more on your own.
 
 ---
 ## Solution
