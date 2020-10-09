@@ -26,6 +26,7 @@ Before you start this lab, you will need an environment setup. Review the [Envir
 
 ## The Workshop
 
+- [Presentation](Presentation.md)
 - [Part 0 - Environment Setup](/Labs/00-Setup.md)
 - [Part 1 - Create a new Teams custom tab](/Labs/01-Create_Teams_tab.md)
 - [Part 2 - Register your application in Azure Active Directory](/Labs/02-Register_your_app_in_Azure_AD.md)
