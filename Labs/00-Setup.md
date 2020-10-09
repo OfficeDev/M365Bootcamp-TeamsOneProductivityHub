@@ -105,4 +105,4 @@ Read [the documentation](https://ngrok.com/docs) to get more ideas on how to use
 - Setup [Ngrok](https://ngrok.com/download)
 
 ## Next Step
-> **[Part 1 - Create a new Teams custom tab](/Labs/01-Create_Teams_tab.md)**
+> **[Part 1 - Create a new Teams custom tab](01-Create_Teams_tab.md)**
