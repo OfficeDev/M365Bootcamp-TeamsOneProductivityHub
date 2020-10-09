@@ -12,6 +12,8 @@ Final solution will be a Microsoft Teams tab for monitoring your tasks, e-mails 
 
 ![One Productivity Hub Final](/Labs/Images/TestingTabOnTeams-06.png)
 
+This repository contains the entire workshop, including [presentation material](Presentation.md), source code, and step-by-step instructions.
+
 ## Prerequisites
 
 Before you start this lab, you will need an environment setup. Review the [Environment Setup](/Labs/00-Setup.md) guidlines for the following prerequisites or click the related link of each prerequisite to be directed to the official documentation:
@@ -24,8 +26,6 @@ Before you start this lab, you will need an environment setup. Review the [Envir
 
 ## The Workshop
 
-[Presentation](Presentation.md) of the workshop is also available in this repository. For the lab exercises, please follow the tutorial parts to build One Productivity Hub solution and complete the lab:
-
 - [Part 0 - Environment Setup](/Labs/00-Setup.md)
 - [Part 1 - Create a new Teams custom tab](/Labs/01-Create_Teams_tab.md)
 - [Part 2 - Register your application in Azure Active Directory](/Labs/02-Register_your_app_in_Azure_AD.md)
@@ -34,7 +34,7 @@ Before you start this lab, you will need an environment setup. Review the [Envir
 - [Part 5 - Test your tab in Microsoft Teams App Studio](/Labs/05-Test_your_tab.md)
 
 
-#### The workshop instructions may include the following signs: 
+### The workshop instructions may include the following signs: 
 
 ---
 
