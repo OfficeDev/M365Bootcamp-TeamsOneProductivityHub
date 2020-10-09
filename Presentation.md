@@ -32,5 +32,5 @@
 ![Slide](Labs/Images/Slide32.PNG)
 ![Slide](Labs/Images/Slide33.PNG)
 ![Slide](Labs/Images/Slide34.PNG)
-![Slide](Labs/Images/Microsoft Teams and Graph Session.png)
+![Slide](Labs/Images/Slide35.png)
 ![Slide](Labs/Images/Slide36.PNG)
