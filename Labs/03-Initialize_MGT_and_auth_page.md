@@ -65,4 +65,4 @@ You can do this in your HTML by adding a new `auth.html` file in the `public` fo
 - Microsoft Docs - [Build a Microsoft Teams tab with the Microsoft Graph Toolkit](https://cda.ms/1Jh)
 
 ## Next Step
-> **[Part 4 - Design your One Productivity Hub using Microsoft Graph Toolkit components](/Labs/04-Design_your_tab_using_MGT_components.md)**
+> **[Part 4 - Design your One Productivity Hub using Microsoft Graph Toolkit components](04-Design_your_tab_using_MGT_components.md)**
