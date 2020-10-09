@@ -47,4 +47,4 @@ ngrok http 3000
 - [Ngrok](https://ngrok.com/download)
 
 ## Next Step
-> **[Part 2 - Register your application in Azure Active Directory](/Labs/02-Register_your_app_in_Azure_AD.md)**
+> **[Part 2 - Register your application in Azure Active Directory](02-Register_your_app_in_Azure_AD.md)**
