@@ -23,7 +23,8 @@ Before you start this lab, you will need an environment setup. Review the [Envir
 - Setup [Ngrok](https://ngrok.com/download)
 
 ## The Workshop
-Follow the tutorial parts to build One Productivity Hub solution and complete the lab:
+
+[Presentation](Presentation.md) of the workshop is also available in this repository. For the lab exercises, please follow the tutorial parts to build One Productivity Hub solution and complete the lab:
 
 - [Part 0 - Environment Setup](/Labs/00-Setup.md)
 - [Part 1 - Create a new Teams custom tab](/Labs/01-Create_Teams_tab.md)
