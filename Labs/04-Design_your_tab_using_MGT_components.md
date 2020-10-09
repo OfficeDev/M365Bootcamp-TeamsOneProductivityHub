@@ -1,4 +1,12 @@
 ## Part 4 - Design your One Productivity Hub using Microsoft Graph Toolkit components
+
+- [Part 0 - Environment Setup](00-Setup.md) 
+- [Part 1 - Create a new Teams custom tab](01-Create_Teams_tab.md) 
+- [Part 2 - Register your application in Azure Active Directory](02-Register_your_app_in_Azure_AD.md) 
+- [Part 3 - Add Microsoft Graph Toolkit and build the auth pop-up page](03-Initialize_MGT_and_auth_page.md) 
+- [Part 4 - Design your One Productivity Hub using Microsoft Graph Toolkit components](04-Design_your_tab_using_MGT_components.md) (**You are here**)
+- [Part 5 - Test your tab in Microsoft Teams App Studio](05-Test_your_tab.md)
+
 Now, you're ready to add any of the Microsoft Graph Toolkit components to your tab.
 
 ### Login component
@@ -136,4 +144,4 @@ Add the `Get` component that enables getting e-mails from user's mailbox inside 
 - Microsoft Docs - [Build a Microsoft Teams tab with the Microsoft Graph Toolkit](https://cda.ms/1Jh)
 
 ## Next Step
-> **[Part 5 - Test your tab in Microsoft Teams App Studio](/Labs/05-Test_your_tab.md)**
+> **[Part 5 - Test your tab in Microsoft Teams App Studio](05-Test_your_tab.md)**
