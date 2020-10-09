@@ -3,7 +3,7 @@
 - [Part 0 - Environment Setup](00-Setup.md) 
 - [Part 1 - Create a new Teams custom tab](01-Create_Teams_tab.md) 
 - [Part 2 - Register your application in Azure Active Directory](02-Register_your_app_in_Azure_AD.md) 
-- [Part 3 - Add Microsoft Graph Toolkit and build the auth pop-up page](03-Initialize_MGT_and_auth_page.md) (**You are here**)
+- [Part 3 - Add Microsoft Graph Toolkit and build the auth pop-up page](03-Initialize_MGT_and_auth_page.md) ( **📍 You are here** )
 - [Part 4 - Design your One Productivity Hub using Microsoft Graph Toolkit components](04-Design_your_tab_using_MGT_components.md)
 - [Part 5 - Test your tab in Microsoft Teams App Studio](05-Test_your_tab.md)
 
@@ -27,7 +27,7 @@ In `public/index.html`, add the Teams provider as shown.
   scopes="User.Read, User.Read.All, Calendars.Read, Contacts.Read, People.Read, Group.Read.All, Group.ReadWrite.All, Tasks.Read, Tasks.ReadWrite, Mail.ReadBasic, Mail.Read, Mail.ReadWrite"
 ></mgt-teams-provider>
 ```
-> **Note:** Make sure to add the following scopes in your provider `scopes="User.Read, User.Read.All, Calendars.Read, Contacts.Read, People.Read, Group.Read.All, Group.ReadWrite.All, Tasks.Read, Tasks.ReadWrite, Mail.ReadBasic, Mail.Read, Mail.ReadWrite"`.
+> **📌 NOTE 📌 :** Make sure to add the following scopes in your provider `scopes="User.Read, User.Read.All, Calendars.Read, Contacts.Read, People.Read, Group.Read.All, Group.ReadWrite.All, Tasks.Read, Tasks.ReadWrite, Mail.ReadBasic, Mail.Read, Mail.ReadWrite"`.
 
 Replace `<YOUR_CLIENT_ID>` with the client ID for your Azure AD application and `<YOUR_NGROK_URL>` with the ngrok URL you created.
 
@@ -65,4 +65,4 @@ You can do this in your HTML by adding a new `auth.html` file in the `public` fo
 - Microsoft Docs - [Build a Microsoft Teams tab with the Microsoft Graph Toolkit](https://cda.ms/1Jh)
 
 ## Next Step
-> **[Part 4 - Design your One Productivity Hub using Microsoft Graph Toolkit components](04-Design_your_tab_using_MGT_components.md)**
+> ▶️ **[Part 4 - Design your One Productivity Hub using Microsoft Graph Toolkit components](04-Design_your_tab_using_MGT_components.md)**

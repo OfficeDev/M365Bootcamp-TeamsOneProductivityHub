@@ -4,7 +4,7 @@
 - [Part 1 - Create a new Teams custom tab](01-Create_Teams_tab.md) 
 - [Part 2 - Register your application in Azure Active Directory](02-Register_your_app_in_Azure_AD.md) 
 - [Part 3 - Add Microsoft Graph Toolkit and build the auth pop-up page](03-Initialize_MGT_and_auth_page.md) 
-- [Part 4 - Design your One Productivity Hub using Microsoft Graph Toolkit components](04-Design_your_tab_using_MGT_components.md) (**You are here**)
+- [Part 4 - Design your One Productivity Hub using Microsoft Graph Toolkit components](04-Design_your_tab_using_MGT_components.md) ( **📍 You are here** )
 - [Part 5 - Test your tab in Microsoft Teams App Studio](05-Test_your_tab.md)
 
 Now, you're ready to add any of the Microsoft Graph Toolkit components to your tab.
@@ -113,6 +113,16 @@ Add the Agenda component inside the first column div tagged with `id="one"` unde
 <mgt-agenda></mgt-agenda>
 ```
 
+---
+**🔥 CHALLENGE 🔥 : Use properties!**   
+
+1️⃣ Define agenda to group events by day.
+
+2️⃣ Always show events for upcoming 7 days.
+
+---
+
+
 ### Tasks component
 
 Add the `Tasks` component inside the second column div tagged with `id="two"` under `public/index.html`:
@@ -123,25 +133,24 @@ Add the `Tasks` component inside the second column div tagged with `id="two"` un
 
 ### Get component
 
-Add the `Get` component that enables getting e-mails from user's mailbox inside the third column div tagged with `id="three"` under `public/index.html`:
+Add the custom element, `Get` component for getting user's mailbox messages inside the third column div tagged with `id="three"` under `public/index.html`:
 
 ```HTML
-<mgt-get resource="/me/messages" version="beta" scopes="mail.read" max-pages="1">
-     <template>
-        <div class="email" data-for="email in value">
-            <h4><mgt-person person-query="{{email.sender.emailAddress.address}}" show-name person-card="hover"></mgt-person></h4>
-             <h3>{{ email.subject }}</h3>
-             <div data-if="email.bodyPreview" class="preview" innerHtml>{{email.bodyPreview}}</div>
-             <div data-else class="preview">email body is empty</div>
-        </div>
-      </template>
-      <template data-type="loading">loading</template>
-      <template data-type="error">{{ this }} </template>
-</mgt-get>  
+<mgt-get></mgt-get>  
 ```
+
+---
+**🔥 CHALLENGE 🔥 : Get e-mails!** 
+
+Use the custom element `mgt-get` for making a Microsoft Graph get query for `https://graph.microsoft.com/beta/me/messages`.
+
+👀 You may want to check out [Microsoft Graph Explorer](https://aka.ms/g-explorer) and [Microsoft Graph Toolkit Playground](https://mgt.dev) for a hint.
+
+---
+
 
 ## References
 - Microsoft Docs - [Build a Microsoft Teams tab with the Microsoft Graph Toolkit](https://cda.ms/1Jh)
 
 ## Next Step
-> **[Part 5 - Test your tab in Microsoft Teams App Studio](05-Test_your_tab.md)**
+> ▶️ **[Part 5 - Test your tab in Microsoft Teams App Studio](05-Test_your_tab.md)**

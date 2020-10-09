@@ -1,6 +1,6 @@
 # Environment Setup
 
-- [Part 0 - Environment Setup](00-Setup.md) (**You are here**)
+- [Part 0 - Environment Setup](00-Setup.md) ( **📍 You are here** )
 - [Part 1 - Create a new Teams custom tab](01-Create_Teams_tab.md)
 - [Part 2 - Register your application in Azure Active Directory](02-Register_your_app_in_Azure_AD.md)
 - [Part 3 - Add Microsoft Graph Toolkit and build the auth pop-up page](03-Initialize_MGT_and_auth_page.md)
@@ -9,7 +9,10 @@
 
 
 ## 1 - Prepare your Office 365 tenant
+---
+**⚡ IMPORTANT! ⚡ :** Community tenant cannot be used for this lab. Please sign up for a free [Microsoft 365 Developer Program](https://cda.ms/1Jp) subscription.
 
+---
 If you are an Office 365 subscriber, you can develop apps for Microsoft Teams with one of the following [plans](https://products.office.com/business/compare-more-office-365-for-business-plans):
 
 * Business Essentials
@@ -105,4 +108,4 @@ Read [the documentation](https://ngrok.com/docs) to get more ideas on how to use
 - Setup [Ngrok](https://ngrok.com/download)
 
 ## Next Step
-> **[Part 1 - Create a new Teams custom tab](01-Create_Teams_tab.md)**
+> ▶️ **[Part 1 - Create a new Teams custom tab](01-Create_Teams_tab.md)**
