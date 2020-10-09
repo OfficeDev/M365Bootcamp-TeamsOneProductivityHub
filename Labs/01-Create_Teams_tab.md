@@ -1,5 +1,12 @@
 ## Part 1 - Create a new Teams custom tab
 
+- [Part 0 - Environment Setup](00-Setup.md) 
+- [Part 1 - Create a new Teams custom tab](01-Create_Teams_tab.md) (**You are here**)
+- [Part 2 - Register your application in Azure Active Directory](02-Register_your_app_in_Azure_AD.md)
+- [Part 3 - Add Microsoft Graph Toolkit and build the auth pop-up page](03-Initialize_MGT_and_auth_page.md)
+- [Part 4 - Design your One Productivity Hub using Microsoft Graph Toolkit components](04-Design_your_tab_using_MGT_components.md)
+- [Part 5 - Test your tab in Microsoft Teams App Studio](05-Test_your_tab.md)
+
 1. Select Microsoft Teams icon on the left side bar in Visual Studio Code and **Sign in**.
 
    ![Microsoft Teams Toolkit Extension for Visual Studio Code](Images/CreateTeamsTab-1.png)
