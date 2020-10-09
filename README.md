@@ -32,10 +32,23 @@ Follow the tutorial parts to build One Productivity Hub solution and complete th
 - [Part 4 - Design your One Productivity Hub using Microsoft Graph Toolkit components](/Labs/04-Design_your_tab_using_MGT_components.md)
 - [Part 5 - Test your tab in Microsoft Teams App Studio](/Labs/05-Test_your_tab.md)
 
----
-**🏁 CHALLENGE:** Be aware! There will be soem challenges in the lab exercises to learn more on your own.
+
+#### The workshop instructions may include the following signs: 
 
 ---
+
+**📌 NOTE 📌 :** Informative notes about the workshop.
+
+---
+---
+**⚡ IMPORTANT! ⚡ :** Critical points about the lab exercises. 
+
+---
+---
+**🔥 CHALLENGE 🔥 :** Be aware! There will be some challenges in the lab exercises to learn more on your own.
+
+---
+
 ## Solution
 
 Completed solution can be found under the `Solution` folder. 
@@ -64,4 +77,4 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 - [Build a Microsoft Teams tab with the Microsoft Graph Toolkit](https://cda.ms/1Jh)
 
 ## Next Step
-> **[Part 0 - Environment Setup](/Labs/00-Setup.md)**
+> ▶️ **[Part 0 - Environment Setup](/Labs/00-Setup.md)**

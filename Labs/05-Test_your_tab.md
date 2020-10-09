@@ -5,16 +5,31 @@
 - [Part 2 - Register your application in Azure Active Directory](02-Register_your_app_in_Azure_AD.md) 
 - [Part 3 - Add Microsoft Graph Toolkit and build the auth pop-up page](03-Initialize_MGT_and_auth_page.md) 
 - [Part 4 - Design your One Productivity Hub using Microsoft Graph Toolkit components](04-Design_your_tab_using_MGT_components.md) 
-- [Part 5 - Test your tab in Microsoft Teams App Studio](05-Test_your_tab.md) (**You are here**)
+- [Part 5 - Test your tab in Microsoft Teams App Studio](05-Test_your_tab.md) ( **📍 You are here** )
+
+
+---
+**🔥 CHALLENGE 🔥 : Pass the validation test!** 
+
+Validate your app package manifest before the test run and make sure to pass it without an error or warning.
+
+**How 👀 :** from Microsoft Teams App Studio, choose `Validation` tab and upload your manifest package for testing.
+
+![Testing your tab on Microsoft Teams](Images/TestingTabOnTeams-07.png)
+
+
+---
+
+
+## Test your tab
 
 Build and run your application using the following commands:
 
 ```Bash
-npm install
 npm start
 ```
 
-> **Note:** `npm install` will only be needed once for the entire lab regardless of how many times you start your app.
+> **📌 NOTE 📌 :** `npm install` will only be needed once for the entire lab regardless of how many times you start your app.
 
 Make sure `ngrok` is running in the background for tunneling.
 
@@ -46,4 +61,4 @@ Finally, our *One Productivity Hub* tab is running successfully on Microsoft Tea
 - Microsoft Docs - [Build a Microsoft Teams tab with the Microsoft Graph Toolkit](https://cda.ms/1Jh)
 
 ## Completed Solution
-> **Completed solution can be found under the `Solution` folder.**
+> ▶️ **Completed solution can be found under the `Solution` folder.**
