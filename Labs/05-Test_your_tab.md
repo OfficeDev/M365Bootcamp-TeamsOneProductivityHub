@@ -57,6 +57,8 @@ Finally, our *One Productivity Hub* tab is running successfully on Microsoft Tea
 
 ![Testing your tab on Microsoft Teams](Images/TestingTabOnTeams-06.png)
 
+> **📌 NOTE 📌 :** Try to add some calendar events, tasks and e-mails in your M365 Developer tenant account. Your "One Productivity Hub" will look awesome that way! 🌟 
+
 ## References
 - Microsoft Docs - [Build a Microsoft Teams tab with the Microsoft Graph Toolkit](https://cda.ms/1Jh)
 
