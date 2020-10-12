@@ -11,7 +11,7 @@ We are back to our project on Visual Studio Code.
 
 ### Add the Microsoft Graph Toolkit
 
-To use the Toolkit and the Teams SDK via the loaders, add the following references to `public/index.html`:
+To use the Toolkit and the Teams SDK via the loaders, add the following references to `public/index.html` in the `<head></head>` section:
 
 ```HTML
 <script src="https://unpkg.com/@microsoft/teams-js/dist/MicrosoftTeams.min.js" crossorigin="anonymous"></script>
@@ -20,7 +20,7 @@ To use the Toolkit and the Teams SDK via the loaders, add the following referenc
 
 ### Initialize the Teams provider
 
-In `public/index.html`, add the Teams provider as shown.
+In `public/index.html`, add the Teams provider in the `<body></body` section as shown.
 
 ```HTML
 <mgt-teams-provider
