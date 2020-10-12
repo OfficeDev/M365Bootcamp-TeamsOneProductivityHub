@@ -10,7 +10,7 @@
 Now, you're ready to add any of the Microsoft Graph Toolkit components to your tab.
 
 ### Login component
-Let's start with the `Login` component, add the below code to the body of your `public/index.html`:
+Let's start with the `Login` component, add the below code to the body of your `public/index.html` in the `<body></body>` section:
 
 ```HTML
 <mgt-login></mgt-login>

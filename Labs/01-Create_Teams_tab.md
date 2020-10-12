@@ -7,12 +7,13 @@
 - [Part 4 - Design your One Productivity Hub using Microsoft Graph Toolkit components](04-Design_your_tab_using_MGT_components.md)
 - [Part 5 - Test your tab in Microsoft Teams App Studio](05-Test_your_tab.md)
 
-1. Select Microsoft Teams icon on the left side bar in Visual Studio Code and **Sign in**.
+1. Launch Visual Studio Code and select Microsoft Teams icon on the left side bar, then **Sign in** with your Microsoft 365 Developer tenant.
+> **📌 NOTE 📌 :** Make sure to complete the setup for Microsoft Teams Toolkit.
 
    ![Microsoft Teams Toolkit Extension for Visual Studio Code](Images/CreateTeamsTab-1.png)
    
 1. Select **Create a new Teams app**, 
-   * Give a name for the app 
+   * Give a name for the app such as "OneProductivityHub"
    * Choose **Tab** for the capability
    * Select **Next**
    
