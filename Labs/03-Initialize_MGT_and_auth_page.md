@@ -7,6 +7,8 @@
 - [Part 4 - Design your One Productivity Hub using Microsoft Graph Toolkit components](04-Design_your_tab_using_MGT_components.md)
 - [Part 5 - Test your tab in Microsoft Teams App Studio](05-Test_your_tab.md)
 
+We are back to our project on Visual Studio Code.
+
 ### Add the Microsoft Graph Toolkit
 
 To use the Toolkit and the Teams SDK via the loaders, add the following references to `public/index.html`:
