@@ -7,7 +7,9 @@
 - [Part 4 - Design your One Productivity Hub using Microsoft Graph Toolkit components](04-Design_your_tab_using_MGT_components.md)
 - [Part 5 - Test your tab in Microsoft Teams App Studio](05-Test_your_tab.md)
 
-1. Go to [Azure Portal](https://portal.azure.com), then **Azure Active Directory > App Registration** and select **New Registration**.
+1. Go to [Azure Portal](https://portal.azure.com), then select **Azure Active Directory** from the left hand side menu.
+
+1. Select **App Registration** and click on **New Registration** button.
 
    ![AAD Registration](Images/AADRegistration-01.PNG) 
 
