@@ -1,3 +1,9 @@
+---
+
+**⚠️ This repository is deprecated. Please visit https://aka.ms/OneProductivityHub for the new version of One Productivity Hub solution for Microsoft Teams.**
+
+---
+
 # Build a “One Productivity Hub” solution using Microsoft Teams and Microsoft Graph Toolkit
 
 ## Summary
