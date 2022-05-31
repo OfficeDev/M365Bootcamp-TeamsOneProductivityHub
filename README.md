@@ -1,6 +1,7 @@
+
 ---
 
-**⚠️ This repository is deprecated. Please visit https://aka.ms/OneProductivityHub for the new version of One Productivity Hub solution for Microsoft Teams.**
+**⚠️ NOTE ⚠️ :** This repository is deprecated. Please visit https://aka.ms/OneProductivityHub for the new version of One Productivity Hub solution for Microsoft Teams.
 
 ---
 
